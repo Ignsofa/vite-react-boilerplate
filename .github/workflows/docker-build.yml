@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Ignsofa/vite-react-boilerplate
+          tags: ghcr.io/ignsofa/vite-react-boilerplate
